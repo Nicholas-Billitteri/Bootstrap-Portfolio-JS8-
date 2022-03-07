@@ -1,0 +1,14 @@
+.background {
+  background-image: linear-gradient(to right, #6cf08b, #0a8f8f);
+}
+.aboutmebackground {
+  background-image: linear-gradient(to right, #ff8308, #9808ff);
+}
+.portfoliobackground {
+  background-image: linear-gradient(to right, #cfaece, #782377);
+}
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+}
